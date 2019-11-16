@@ -2,7 +2,7 @@
 
 ## Setup (Windows)
 
-1. [Download](https://repo.anaconda.com/archive/Anaconda3-2019.10-Windows-x86_64.exe) and install Anaconda3 for Windows. The links points to the 64 bit version. If you are using a 32 bit platform, please install the 32 bit [version](https://repo.anaconda.com/archive/Anaconda3-2019.10-Windows-x86.exe).
+1. [Download](https://repo.anaconda.com/archive/Anaconda3-2019.10-Windows-x86_64.exe) and install Anaconda3 for Windows. The link points to the 64 bit version. If you are using a 32 bit platform, please install the 32 bit [version](https://repo.anaconda.com/archive/Anaconda3-2019.10-Windows-x86.exe).
 
 2. Download and install git for windows: [64 bit](https://github.com/git-for-windows/git/releases/download/v2.24.0.windows.2/Git-2.24.0.2-64-bit.exe) version or [32 bit version](https://github.com/git-for-windows/git/releases/download/v2.24.0.windows.2/Git-2.24.0.2-32-bit.exe).
 
