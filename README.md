@@ -13,8 +13,8 @@ Choose a local directory where you want to download the files and click "clone".
 
 5. Wait until the source files are downloaded and PyCharm loads the project (it may take some time).
 
-6. Click on File -> Settings -> Project(name of the project) -> Project interpreter. Find the cogwheel icon (top right part of the screen, next to the  Project interpreter select field) and click it. Choose "add". In the new menu select "Conda environment" (left part of the screen). The the form to the right select new environment if not already automatically selected. Click "OK" and wait until the new environment is created and do _not_ close the window.
+6. Click on File -> Settings -> Project(name of the project) -> Project interpreter. Find the cogwheel icon (top right part of the screen, next to the  Project interpreter select field) and click it. Choose "add". In the new menu select "Conda environment" (left part of the screen). In the form (center of the screen), select "new environment" if not already automatically selected. Click "OK", wait until the new environment is created and do _not_ close the window.
 
-7. Install the following packages: `nltk`, `scikit-learn`, `pandas`, `matplotlib`, `seaborn`, and `jupyter`. To install the packages locate the "plus" icon (top right corner, beneath the cogwheel icon) in the project interprete menu. Clicking on the icon
+7. Install the following packages: `nltk`, `scikit-learn`, `pandas`, `matplotlib`, `seaborn`, and `jupyter`. To install the packages locate the "plus" icon (top right corner, beneath the cogwheel icon) in the project interpreter menu. Clicking on the icon
 will open a list of packages. Type the name of the package to filter the list, select the package and click "install".
 
