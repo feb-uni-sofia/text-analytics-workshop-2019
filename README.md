@@ -8,7 +8,7 @@
 
 3. Download and install [PyCharm](https://www.jetbrains.com/pycharm/download/). When prompted to import setting, choose to not import anything. When prompted to enter a licence key, choose _evaluate_.
 
-4. Start PyCharm. Click on "Checkout from version control", then select git and then paste this github repository's address.
+4. Start PyCharm. Click on "Checkout from version control", then select git and then paste this github repository's address: "git@github.com:feb-uni-sofia/text-analytics-workshop-2019.git" (without the quotation marks).
 Choose a local directory where you want to download the files and click "clone".
 
 5. Wait until the source files are downloaded and PyCharm loads the project (it may take some time).
