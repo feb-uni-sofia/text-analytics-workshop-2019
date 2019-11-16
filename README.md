@@ -8,7 +8,7 @@
 
 3. Download and install [PyCharm](https://www.jetbrains.com/pycharm/download/). When prompted to import setting, choose to not import anything. When prompted to enter a licence key, choose _evaluate_.
 
-4. Start PyCharm. Click on "Checkout from version control", then select git and then paste this github repository's address: "git@github.com:feb-uni-sofia/text-analytics-workshop-2019.git" (without the quotation marks).
+4. Start PyCharm. Click on "Checkout from version control", then select git and then paste this github repository's address: "https://github.com/feb-uni-sofia/text-analytics-workshop-2019.git" (without the quotation marks).
 Choose a local directory where you want to download the files and click "clone". If this fails (look at a button with a red badge called "events") with a message about PyCharm not being able to find git, close PyCharm and start it again. If you fail to clone the repository this way, download this [package](https://github.com/feb-uni-sofia/text-analytics-workshop-2019/archive/16.10.zip) with the source files and unpack it. Then open PyCharm, from File select "Open" and point to the directory where you unpacked the archive.
 
 5. Wait until the source files are downloaded and PyCharm loads the project (it may take some time).
